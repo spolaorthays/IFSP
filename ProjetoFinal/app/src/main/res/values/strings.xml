@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Projeto Final</string>
+    <string name="Boas_vindas">Bem-vindo ao cadastro do usuário do FaceFlix</string>
+    <string name="inserir_dados">Inserir dados</string>
+    <string name="faceflix">FaceFLIX</string>
+    <string name="loading">Loading...</string>
+    <string name="desenvolvedora">Desenvolvido por Thays Sp. Versão 1.0</string>
+    <string name="nome">Nome</string>
+    <string name="cpf">CPF</string>
+    <string name="idade">Idade</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">Email</string>
+    <string name="inserir_usuario">Inserir usuário</string>
+    <string name="listar">Listar Registros</string>
+    <string name="voltar">Voltar</string>
+    <string name="nome_">Nome:</string>
+    <string name="cpf_">CPF:</string>
+    <string name="idade_">Idade:</string>
+    <string name="telefone_">Telefone:</string>
+    <string name="email_">Email:</string>
+</resources>
